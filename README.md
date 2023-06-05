@@ -5,7 +5,7 @@ track at ALX Africa. In these projects, which began in the fourth month
 of the curriculum, I am currently learning Python. However, there will be
 occassional shell commands and C programs as well
 
-*  [0x00. Python - Hello, World](https://github.com/thesarfo/alx-higher_level_programming/0x00-python-hello_world)
+*  [0x00. Python - Hello, World](https://github.com/thesarfo/alx-higher_level_programming/tree/master/0x00-python-hello_world)
 
 ## Author :
 
@@ -13,4 +13,7 @@ occassional shell commands and C programs as well
 
 ## Acknowledgements
 
-All work contained in this project was completed as part of the curriculum for ALX Africa Software Engineering Programme
+All work contained in this project was completed as part of the curriculum for
+ALX Africa Software Engineering Programme
+
+The first link now leads to the updated GitHub repository for the 0x00. Python - Hello, World project.
