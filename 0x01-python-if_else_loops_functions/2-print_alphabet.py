@@ -1,3 +1,5 @@
 #!/usr/bin/python3
+result = ""
 for ascii_val in range(97, 123):
-    print("{}".format(chr(ascii_val), end=""))
+    result += chr(ascii_val)
+print(result)
