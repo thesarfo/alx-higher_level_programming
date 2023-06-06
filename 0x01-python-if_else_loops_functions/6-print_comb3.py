@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-for dig in range(10):
-    for dig1 in range(dig + 1, 10):
-        if dig != 8 or dig1 != 9:
-            print("{:n}{:n}".format(dig, dig1), end=", ")
-print("{:n}{:n}".format(dig, dig1))
+number = 0
+while number <= 89:
+    if number % 10 == 0:
+        number += 1 + number // 10
+    print("{:02d}".format(number), end='\n' if number == 89 else ", ")
+    number += 1
